@@ -54,7 +54,7 @@ To view the portfolio:
 ## My stats
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=justshfarida)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justshfarida&langs_count=8)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=justshfarida&langs_count=7)](https://github-stats-extended.vercel.app/api/top-langs?username=justshfarida&langs_count=7)
 
 ## License
 
